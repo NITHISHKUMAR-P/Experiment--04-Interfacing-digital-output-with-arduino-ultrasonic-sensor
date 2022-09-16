@@ -38,7 +38,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 ### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
 
 
-![](image.png)
+![](circuit.PNG)
 
 
 
